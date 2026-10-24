@@ -1,0 +1,12 @@
+<api type="debug" assembly-name="Uno.UI.Dispatching" mvid="ae1456b54bfa43bd85b404734f51d0a9">
+  <java-to-managed>
+    <entry java-name="crc648b6249ab18af3cbd/DispatcherQueueTimer_TickRunnable" managed-name="Microsoft.UI.Dispatching.DispatcherQueueTimer+TickRunnable, Uno.UI.Dispatching" managed-type-token-id="33554449" />
+    <entry java-name="mono/java/lang/NativeDispatcherImplementor" managed-name="Uno.UI.Dispatching.NativeDispatcher+NativeDispatcherImplementor, Uno.UI.Dispatching" managed-type-token-id="33554451" />
+    <entry java-name="crc64a603748c3ab1f871/NativeDispatcher_FrameCallbackImplementor" managed-name="Uno.UI.Dispatching.NativeDispatcher+FrameCallbackImplementor, Uno.UI.Dispatching" managed-type-token-id="33554452" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc648b6249ab18af3cbd/DispatcherQueueTimer_TickRunnable" managed-name="Microsoft.UI.Dispatching.DispatcherQueueTimer+TickRunnable, Uno.UI.Dispatching" managed-type-token-id="33554449" />
+    <entry java-name="mono/java/lang/NativeDispatcherImplementor" managed-name="Uno.UI.Dispatching.NativeDispatcher+NativeDispatcherImplementor, Uno.UI.Dispatching" managed-type-token-id="33554451" />
+    <entry java-name="crc64a603748c3ab1f871/NativeDispatcher_FrameCallbackImplementor" managed-name="Uno.UI.Dispatching.NativeDispatcher+FrameCallbackImplementor, Uno.UI.Dispatching" managed-type-token-id="33554452" />
+  </managed-to-java>
+</api>

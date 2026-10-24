@@ -1,0 +1,76 @@
+<api type="debug" assembly-name="Uno" mvid="adea59ef62674214b1498f3183d2177c">
+  <java-to-managed>
+    <entry java-name="crc645e10cab61562572d/WebAuthenticationBrokerActivityBase" managed-name="Uno.AuthenticationBroker.WebAuthenticationBrokerActivityBase, Uno" managed-type-token-id="33554490" />
+    <entry java-name="crc645e10cab61562572d/WebAuthenticationBrokerRedirectActivity" managed-name="Uno.AuthenticationBroker.WebAuthenticationBrokerRedirectActivity, Uno" managed-type-token-id="33554492" />
+    <entry java-name="crc640aba57d4ab004b30/ConnectivityChangeBroadcastReceiver" managed-name="Uno.Networking.Connectivity.Internal.ConnectivityChangeBroadcastReceiver, Uno" managed-type-token-id="33554493" />
+    <entry java-name="crc6445abe3587658c5aa/AudioPlayerBroadcastReceiver" managed-name="Uno.Media.Playback.AudioPlayerBroadcastReceiver, Uno" managed-type-token-id="33554496" />
+    <entry java-name="uno/media/playback/VideoSurface" managed-name="Uno.Media.Playback.VideoSurface, Uno" managed-type-token-id="33554498" />
+    <entry java-name="crc64a2db0dbf8de8c024/AwaitableResultActivity" managed-name="Uno.Helpers.Activities.AwaitableResultActivity, Uno" managed-type-token-id="33554517" />
+    <entry java-name="crc64e196a9af93ff0e4d/MidiDeviceOpenedListener" managed-name="Uno.Devices.Midi.Internal.MidiDeviceOpenedListener, Uno" managed-type-token-id="33554538" />
+    <entry java-name="crc64a255cef348b4effe/MidiDeviceClassProviderBase_DeviceCallback" managed-name="Uno.Devices.Enumeration.Internal.Providers.Midi.MidiDeviceClassProviderBase+DeviceCallback, Uno" managed-type-token-id="33559714" />
+    <entry java-name="crc64958fff25419ca2ce/StatusBar_InsetsListener" managed-name="Windows.UI.ViewManagement.StatusBar+InsetsListener, Uno" managed-type-token-id="33559740" />
+    <entry java-name="crc64856e349ad6249db5/MessageDialog_DialogListener" managed-name="Windows.UI.Popups.MessageDialog+DialogListener, Uno" managed-type-token-id="33559745" />
+    <entry java-name="crc64663e11a8261e7df4/DispatcherQueueTimer_TickRunnable" managed-name="Windows.System.DispatcherQueueTimer+TickRunnable, Uno" managed-type-token-id="33559771" />
+    <entry java-name="crc6498b0afd0f7f4374b/BatteryChangedBroadcastReceiver" managed-name="Windows.System.Power.BatteryChangedBroadcastReceiver, Uno" managed-type-token-id="33555696" />
+    <entry java-name="crc6498b0afd0f7f4374b/PowerConnectionBroadcastReceiver" managed-name="Windows.System.Power.PowerConnectionBroadcastReceiver, Uno" managed-type-token-id="33555697" />
+    <entry java-name="crc6498b0afd0f7f4374b/PowerSaveModeChangeReceiver" managed-name="Windows.System.Power.PowerSaveModeChangeReceiver, Uno" managed-type-token-id="33555698" />
+    <entry java-name="crc644139272d07a52397/NetworkCallbackListener" managed-name="Windows.Networking.Connectivity.Internal.NetworkCallbackListener, Uno" managed-type-token-id="33556593" />
+    <entry java-name="crc6442291e952e6ae82d/SpeechRecognitionListener" managed-name="Windows.Media.SpeechRecognition.SpeechRecognitionListener, Uno" managed-type-token-id="33556710" />
+    <entry java-name="crc641ee720dfd084de9e/MediaPlayer" managed-name="Windows.Media.Playback.MediaPlayer, Uno" managed-type-token-id="33556862" />
+    <entry java-name="crc6417a84b29f3d4dd91/CameraCaptureUI_MediaPickerActivity" managed-name="Windows.Media.Capture.CameraCaptureUI+MediaPickerActivity, Uno" managed-type-token-id="33559928" />
+    <entry java-name="crc643cb597f22379df1b/Gamepad_InputDeviceListener" managed-name="Windows.Gaming.Input.Gamepad+InputDeviceListener, Uno" managed-type-token-id="33559952" />
+    <entry java-name="crc64fe881b1858fb9a5d/Accelerometer_ReadingChangedListener" managed-name="Windows.Devices.Sensors.Accelerometer+ReadingChangedListener, Uno" managed-type-token-id="33559955" />
+    <entry java-name="crc64fe881b1858fb9a5d/Accelerometer_ShakeListener" managed-name="Windows.Devices.Sensors.Accelerometer+ShakeListener, Uno" managed-type-token-id="33559956" />
+    <entry java-name="crc64fe881b1858fb9a5d/Barometer_BarometerListener" managed-name="Windows.Devices.Sensors.Barometer+BarometerListener, Uno" managed-type-token-id="33559958" />
+    <entry java-name="crc64fe881b1858fb9a5d/Compass_SensorListener" managed-name="Windows.Devices.Sensors.Compass+SensorListener, Uno" managed-type-token-id="33559960" />
+    <entry java-name="crc64fe881b1858fb9a5d/Gyrometer_GyrometerListener" managed-name="Windows.Devices.Sensors.Gyrometer+GyrometerListener, Uno" managed-type-token-id="33559962" />
+    <entry java-name="crc64fe881b1858fb9a5d/LightSensor_LightSensorListener" managed-name="Windows.Devices.Sensors.LightSensor+LightSensorListener, Uno" managed-type-token-id="33559964" />
+    <entry java-name="crc64fe881b1858fb9a5d/Magnetometer_MagnetometerListener" managed-name="Windows.Devices.Sensors.Magnetometer+MagnetometerListener, Uno" managed-type-token-id="33559966" />
+    <entry java-name="crc64fe881b1858fb9a5d/Pedometer_StepCounterListener" managed-name="Windows.Devices.Sensors.Pedometer+StepCounterListener, Uno" managed-type-token-id="33559968" />
+    <entry java-name="crc64fe881b1858fb9a5d/ProximitySensor_ProximitySensorListener" managed-name="Windows.Devices.Sensors.ProximitySensor+ProximitySensorListener, Uno" managed-type-token-id="33559971" />
+    <entry java-name="crc64fe881b1858fb9a5d/SimpleOrientationSensor_SettingsContentObserver" managed-name="Windows.Devices.Sensors.SimpleOrientationSensor+SettingsContentObserver, Uno" managed-type-token-id="33559973" />
+    <entry java-name="crc64fe881b1858fb9a5d/SimpleOrientationSensor_SimpleOrientationEventListener" managed-name="Windows.Devices.Sensors.SimpleOrientationSensor+SimpleOrientationEventListener, Uno" managed-type-token-id="33559974" />
+    <entry java-name="crc64fe881b1858fb9a5d/SimpleOrientationSensor_OrientationListener" managed-name="Windows.Devices.Sensors.SimpleOrientationSensor+OrientationListener, Uno" managed-type-token-id="33559975" />
+    <entry java-name="crc64bbcac3e75cb60a1f/MidiInPort_MessageReceiver" managed-name="Windows.Devices.Midi.MidiInPort+MessageReceiver, Uno" managed-type-token-id="33559979" />
+    <entry java-name="crc645ac28bd133c75e56/Geolocator_LocationListener" managed-name="Windows.Devices.Geolocation.Geolocator+LocationListener, Uno" managed-type-token-id="33559985" />
+    <entry java-name="crc64967086e9a43d0cf7/CallCallback" managed-name="Windows.ApplicationModel.Calls.CallCallback, Uno" managed-type-token-id="33559319" />
+    <entry java-name="crc64967086e9a43d0cf7/CallStateListener" managed-name="Windows.ApplicationModel.Calls.CallStateListener, Uno" managed-type-token-id="33559320" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc645e10cab61562572d/WebAuthenticationBrokerActivityBase" managed-name="Uno.AuthenticationBroker.WebAuthenticationBrokerActivityBase, Uno" managed-type-token-id="33554490" />
+    <entry java-name="crc645e10cab61562572d/WebAuthenticationBrokerRedirectActivity" managed-name="Uno.AuthenticationBroker.WebAuthenticationBrokerRedirectActivity, Uno" managed-type-token-id="33554492" />
+    <entry java-name="crc640aba57d4ab004b30/ConnectivityChangeBroadcastReceiver" managed-name="Uno.Networking.Connectivity.Internal.ConnectivityChangeBroadcastReceiver, Uno" managed-type-token-id="33554493" />
+    <entry java-name="crc6445abe3587658c5aa/AudioPlayerBroadcastReceiver" managed-name="Uno.Media.Playback.AudioPlayerBroadcastReceiver, Uno" managed-type-token-id="33554496" />
+    <entry java-name="uno/media/playback/VideoSurface" managed-name="Uno.Media.Playback.VideoSurface, Uno" managed-type-token-id="33554498" />
+    <entry java-name="crc64a2db0dbf8de8c024/AwaitableResultActivity" managed-name="Uno.Helpers.Activities.AwaitableResultActivity, Uno" managed-type-token-id="33554517" />
+    <entry java-name="crc64e196a9af93ff0e4d/MidiDeviceOpenedListener" managed-name="Uno.Devices.Midi.Internal.MidiDeviceOpenedListener, Uno" managed-type-token-id="33554538" />
+    <entry java-name="crc64a255cef348b4effe/MidiDeviceClassProviderBase_DeviceCallback" managed-name="Uno.Devices.Enumeration.Internal.Providers.Midi.MidiDeviceClassProviderBase+DeviceCallback, Uno" managed-type-token-id="33559714" />
+    <entry java-name="crc64958fff25419ca2ce/StatusBar_InsetsListener" managed-name="Windows.UI.ViewManagement.StatusBar+InsetsListener, Uno" managed-type-token-id="33559740" />
+    <entry java-name="crc64856e349ad6249db5/MessageDialog_DialogListener" managed-name="Windows.UI.Popups.MessageDialog+DialogListener, Uno" managed-type-token-id="33559745" />
+    <entry java-name="crc64663e11a8261e7df4/DispatcherQueueTimer_TickRunnable" managed-name="Windows.System.DispatcherQueueTimer+TickRunnable, Uno" managed-type-token-id="33559771" />
+    <entry java-name="crc6498b0afd0f7f4374b/BatteryChangedBroadcastReceiver" managed-name="Windows.System.Power.BatteryChangedBroadcastReceiver, Uno" managed-type-token-id="33555696" />
+    <entry java-name="crc6498b0afd0f7f4374b/PowerConnectionBroadcastReceiver" managed-name="Windows.System.Power.PowerConnectionBroadcastReceiver, Uno" managed-type-token-id="33555697" />
+    <entry java-name="crc6498b0afd0f7f4374b/PowerSaveModeChangeReceiver" managed-name="Windows.System.Power.PowerSaveModeChangeReceiver, Uno" managed-type-token-id="33555698" />
+    <entry java-name="crc644139272d07a52397/NetworkCallbackListener" managed-name="Windows.Networking.Connectivity.Internal.NetworkCallbackListener, Uno" managed-type-token-id="33556593" />
+    <entry java-name="crc6442291e952e6ae82d/SpeechRecognitionListener" managed-name="Windows.Media.SpeechRecognition.SpeechRecognitionListener, Uno" managed-type-token-id="33556710" />
+    <entry java-name="crc641ee720dfd084de9e/MediaPlayer" managed-name="Windows.Media.Playback.MediaPlayer, Uno" managed-type-token-id="33556862" />
+    <entry java-name="crc6417a84b29f3d4dd91/CameraCaptureUI_MediaPickerActivity" managed-name="Windows.Media.Capture.CameraCaptureUI+MediaPickerActivity, Uno" managed-type-token-id="33559928" />
+    <entry java-name="crc643cb597f22379df1b/Gamepad_InputDeviceListener" managed-name="Windows.Gaming.Input.Gamepad+InputDeviceListener, Uno" managed-type-token-id="33559952" />
+    <entry java-name="crc64fe881b1858fb9a5d/Accelerometer_ReadingChangedListener" managed-name="Windows.Devices.Sensors.Accelerometer+ReadingChangedListener, Uno" managed-type-token-id="33559955" />
+    <entry java-name="crc64fe881b1858fb9a5d/Accelerometer_ShakeListener" managed-name="Windows.Devices.Sensors.Accelerometer+ShakeListener, Uno" managed-type-token-id="33559956" />
+    <entry java-name="crc64fe881b1858fb9a5d/Barometer_BarometerListener" managed-name="Windows.Devices.Sensors.Barometer+BarometerListener, Uno" managed-type-token-id="33559958" />
+    <entry java-name="crc64fe881b1858fb9a5d/Compass_SensorListener" managed-name="Windows.Devices.Sensors.Compass+SensorListener, Uno" managed-type-token-id="33559960" />
+    <entry java-name="crc64fe881b1858fb9a5d/Gyrometer_GyrometerListener" managed-name="Windows.Devices.Sensors.Gyrometer+GyrometerListener, Uno" managed-type-token-id="33559962" />
+    <entry java-name="crc64fe881b1858fb9a5d/LightSensor_LightSensorListener" managed-name="Windows.Devices.Sensors.LightSensor+LightSensorListener, Uno" managed-type-token-id="33559964" />
+    <entry java-name="crc64fe881b1858fb9a5d/Magnetometer_MagnetometerListener" managed-name="Windows.Devices.Sensors.Magnetometer+MagnetometerListener, Uno" managed-type-token-id="33559966" />
+    <entry java-name="crc64fe881b1858fb9a5d/Pedometer_StepCounterListener" managed-name="Windows.Devices.Sensors.Pedometer+StepCounterListener, Uno" managed-type-token-id="33559968" />
+    <entry java-name="crc64fe881b1858fb9a5d/ProximitySensor_ProximitySensorListener" managed-name="Windows.Devices.Sensors.ProximitySensor+ProximitySensorListener, Uno" managed-type-token-id="33559971" />
+    <entry java-name="crc64fe881b1858fb9a5d/SimpleOrientationSensor_SettingsContentObserver" managed-name="Windows.Devices.Sensors.SimpleOrientationSensor+SettingsContentObserver, Uno" managed-type-token-id="33559973" />
+    <entry java-name="crc64fe881b1858fb9a5d/SimpleOrientationSensor_SimpleOrientationEventListener" managed-name="Windows.Devices.Sensors.SimpleOrientationSensor+SimpleOrientationEventListener, Uno" managed-type-token-id="33559974" />
+    <entry java-name="crc64fe881b1858fb9a5d/SimpleOrientationSensor_OrientationListener" managed-name="Windows.Devices.Sensors.SimpleOrientationSensor+OrientationListener, Uno" managed-type-token-id="33559975" />
+    <entry java-name="crc64bbcac3e75cb60a1f/MidiInPort_MessageReceiver" managed-name="Windows.Devices.Midi.MidiInPort+MessageReceiver, Uno" managed-type-token-id="33559979" />
+    <entry java-name="crc645ac28bd133c75e56/Geolocator_LocationListener" managed-name="Windows.Devices.Geolocation.Geolocator+LocationListener, Uno" managed-type-token-id="33559985" />
+    <entry java-name="crc64967086e9a43d0cf7/CallCallback" managed-name="Windows.ApplicationModel.Calls.CallCallback, Uno" managed-type-token-id="33559319" />
+    <entry java-name="crc64967086e9a43d0cf7/CallStateListener" managed-name="Windows.ApplicationModel.Calls.CallStateListener, Uno" managed-type-token-id="33559320" />
+  </managed-to-java>
+</api>

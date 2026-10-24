@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "HotReloadDemo",
+  "display": "standalone",
+  "name": "HotReloadDemo",
+  "short_name": "HotReloadDemo",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

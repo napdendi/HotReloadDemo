@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="HotReloadDemo" mvid="eaf05e491f5c4e5493400a17a7aba33f">
+  <java-to-managed>
+    <entry java-name="crc641b42e1abe520ad0e/Application" managed-name="HotReloadDemo.Droid.Application, HotReloadDemo" managed-type-token-id="33555111" />
+    <entry java-name="crc641b42e1abe520ad0e/MainActivity" managed-name="HotReloadDemo.Droid.MainActivity, HotReloadDemo" managed-type-token-id="33555112" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc641b42e1abe520ad0e/Application" managed-name="HotReloadDemo.Droid.Application, HotReloadDemo" managed-type-token-id="33555111" />
+    <entry java-name="crc641b42e1abe520ad0e/MainActivity" managed-name="HotReloadDemo.Droid.MainActivity, HotReloadDemo" managed-type-token-id="33555112" />
+  </managed-to-java>
+</api>
